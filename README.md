@@ -1,0 +1,2 @@
+# pasJaponais
+experimentations Prolog
